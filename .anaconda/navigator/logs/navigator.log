@@ -1,0 +1,7 @@
+{"time":"2023-12-31 04:20:56","level":"INFO","module":"__init__","method":"__init__","line":257,"path":"D:\\anacon\\Lib\\site-packages\\anaconda_navigator\\widgets\\main_window\\__init__.py","message":"appusermodelid: 0"}
+{"time":"2023-12-31 04:21:05","level":"INFO","module":"__init__","method":"setup","line":463,"path":"D:\\anacon\\Lib\\site-packages\\anaconda_navigator\\widgets\\main_window\\__init__.py","message":"Initial setup"}
+{"time":"2023-12-31 04:22:13","level":"INFO","module":"__init__","method":"setup","line":479,"path":"D:\\anacon\\Lib\\site-packages\\anaconda_navigator\\widgets\\main_window\\__init__.py","message":"Normal setup"}
+{"time":"2024-01-01 00:57:32","level":"INFO","module":"__init__","method":"__init__","line":258,"path":"D:\\anacon\\Lib\\site-packages\\anaconda_navigator\\widgets\\main_window\\__init__.py","message":"appusermodelid: 0"}
+{"time":"2024-01-01 00:57:44","level":"INFO","module":"__init__","method":"setup","line":464,"path":"D:\\anacon\\Lib\\site-packages\\anaconda_navigator\\widgets\\main_window\\__init__.py","message":"Initial setup"}
+{"time":"2024-01-01 00:58:28","level":"INFO","module":"__init__","method":"setup","line":480,"path":"D:\\anacon\\Lib\\site-packages\\anaconda_navigator\\widgets\\main_window\\__init__.py","message":"Normal setup"}
+{"time":"2024-01-01 02:02:01","level":"INFO","module":"__init__","method":"setup","line":480,"path":"D:\\anacon\\Lib\\site-packages\\anaconda_navigator\\widgets\\main_window\\__init__.py","message":"Normal setup"}
